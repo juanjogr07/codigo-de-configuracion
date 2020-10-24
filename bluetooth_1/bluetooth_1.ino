@@ -1,7 +1,7 @@
 const int led =13; 
 const int BTPWR=12;
 
-char nombreBT[11]="techKrowdM";
+char nombreBT[11]="******";
 char pin[5]="0000";
 char velocidad='4';
 char modo='1';
